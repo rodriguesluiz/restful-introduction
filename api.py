@@ -24,15 +24,6 @@ app = FastAPI()
 def root():
 	return {"message": "Hello World"}
 
-
-
-
-
-
-
-
-
-
 ### CRUD ###
 
 # Modelagem dos dados de sorvetes com Pydantic
