@@ -2,7 +2,7 @@
 
 # API de Sorvetes
 
-Este repositório é parte da aula "Aula 5: Elementos e Funcionamento do REST - Transferência de Estado Representacional", ministrada por Luiz Antonio Lima Rodrigues, candidato à vaga _Ciência da Computação- Sistemas de informação_, no contexto da Prova Didática do edital Nº 001/2024 - CPPS.
+Este repositório é parte da aula "Elementos e Funcionamento do REST - Transferência de Estado Representacional", ministrada por Luiz Antonio Lima Rodrigues, candidato à vaga _Ciência da Computação- Sistemas de informação_, no contexto da Prova Didática do edital Nº 001/2024 - CPPS.
 
 Este repositório contém uma API simples para manipulação de dados de sorvetes utilizando FastAPI e Pydantic. Seu objetivo é permitir a introdução de um exemplo prático de API RESTful, bem como possibilitar a discussão da implementação de uma API baseada em REST.
 
